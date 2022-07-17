@@ -338,7 +338,7 @@ async def start_eagle():
         except Exception as e:
             print(e)
     else:
-        print("Session 10 not Found")
+        print("Session 11 not Found")
         session_name = "startup"
         edk = TelegramClient(session_name, a, b)
         try:
@@ -414,12 +414,12 @@ async def start_eagle():
         except Exception as e:
             pass
 
-    if S10:
-        session_name = str(S10)
-        print("String 10 Found")
+    if S15:
+        session_name = str(S15)
+        print("String 15 Found")
         edk = TelegramClient(StringSession(session_name), a, b)
         try:
-            print("Booting Up The Client 10")
+            print("Booting Up The Client 15")
             await edk.start()
             await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
             await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
@@ -429,7 +429,7 @@ async def start_eagle():
         except Exception as e:
             print(e)
     else:
-        print("Session 10 not Found")
+        print("Session 15 not Found")
         session_name = "startup"
         edk = TelegramClient(session_name, a, b)
         try:
@@ -437,12 +437,12 @@ async def start_eagle():
         except Exception as e:
             pass
 
-    if S10:
-        session_name = str(S10)
-        print("String 10 Found")
+    if S16:
+        session_name = str(S16)
+        print("String 16 Found")
         edk = TelegramClient(StringSession(session_name), a, b)
         try:
-            print("Booting Up The Client 10")
+            print("Booting Up The Client 16")
             await edk.start()
             await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
             await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
@@ -452,7 +452,7 @@ async def start_eagle():
         except Exception as e:
             print(e)
     else:
-        print("Session 10 not Found")
+        print("Session 16 not Found")
         session_name = "startup"
         edk = TelegramClient(session_name, a, b)
         try:
@@ -460,12 +460,12 @@ async def start_eagle():
         except Exception as e:
             pass
 
-    if S10:
-        session_name = str(S10)
-        print("String 10 Found")
+    if S17:
+        session_name = str(S17)
+        print("String 17 Found")
         edk = TelegramClient(StringSession(session_name), a, b)
         try:
-            print("Booting Up The Client 10")
+            print("Booting Up The Client 17")
             await edk.start()
             await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
             await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
@@ -475,7 +475,7 @@ async def start_eagle():
         except Exception as e:
             print(e)
     else:
-        print("Session 10 not Found")
+        print("Session 17 not Found")
         session_name = "startup"
         edk = TelegramClient(session_name, a, b)
         try:
@@ -483,12 +483,12 @@ async def start_eagle():
         except Exception as e:
             pass
 
-    if S10:
-        session_name = str(S10)
-        print("String 10 Found")
+    if S18:
+        session_name = str(S18)
+        print("String 18 Found")
         edk = TelegramClient(StringSession(session_name), a, b)
         try:
-            print("Booting Up The Client 10")
+            print("Booting Up The Client 18")
             await edk.start()
             await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
             await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
@@ -498,7 +498,7 @@ async def start_eagle():
         except Exception as e:
             print(e)
     else:
-        print("Session 10 not Found")
+        print("Session 18 not Found")
         session_name = "startup"
         edk = TelegramClient(session_name, a, b)
         try:
@@ -506,12 +506,12 @@ async def start_eagle():
         except Exception as e:
             pass
 
-    if S10:
-        session_name = str(S10)
-        print("String 10 Found")
+    if S19:
+        session_name = str(S19)
+        print("String 19 Found")
         edk = TelegramClient(StringSession(session_name), a, b)
         try:
-            print("Booting Up The Client 10")
+            print("Booting Up The Client 19")
             await edk.start()
             await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
             await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
@@ -521,7 +521,7 @@ async def start_eagle():
         except Exception as e:
             print(e)
     else:
-        print("Session 10 not Found")
+        print("Session 19 not Found")
         session_name = "startup"
         edk = TelegramClient(session_name, a, b)
         try:
@@ -529,12 +529,12 @@ async def start_eagle():
         except Exception as e:
             pass
 
-    if S10:
-        session_name = str(S10)
-        print("String 10 Found")
+    if S20:
+        session_name = str(S20)
+        print("String 20 Found")
         edk = TelegramClient(StringSession(session_name), a, b)
         try:
-            print("Booting Up The Client 10")
+            print("Booting Up The Client 20")
             await edk.start()
             await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
             await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
@@ -544,7 +544,7 @@ async def start_eagle():
         except Exception as e:
             print(e)
     else:
-        print("Session 10 not Found")
+        print("Session 20 not Found")
         session_name = "startup"
         edk = TelegramClient(session_name, a, b)
         try:
@@ -552,99 +552,7 @@ async def start_eagle():
         except Exception as e:
             pass
 
-    if S10:
-        session_name = str(S10)
-        print("String 10 Found")
-        edk = TelegramClient(StringSession(session_name), a, b)
-        try:
-            print("Booting Up The Client 10")
-            await edk.start()
-            await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
-            await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
-            botme = await edk.get_me()
-            botid = telethon.utils.get_peer_id(botme)
-            SUDO_USERS.append(botid)
-        except Exception as e:
-            print(e)
-    else:
-        print("Session 10 not Found")
-        session_name = "startup"
-        edk = TelegramClient(session_name, a, b)
-        try:
-            await edk.start()
-        except Exception as e:
-            pass
-
-    if S10:
-        session_name = str(S10)
-        print("String 10 Found")
-        edk = TelegramClient(StringSession(session_name), a, b)
-        try:
-            print("Booting Up The Client 10")
-            await edk.start()
-            await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
-            await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
-            botme = await edk.get_me()
-            botid = telethon.utils.get_peer_id(botme)
-            SUDO_USERS.append(botid)
-        except Exception as e:
-            print(e)
-    else:
-        print("Session 10 not Found")
-        session_name = "startup"
-        edk = TelegramClient(session_name, a, b)
-        try:
-            await edk.start()
-        except Exception as e:
-            pass
-
-    if S10:
-        session_name = str(S10)
-        print("String 10 Found")
-        edk = TelegramClient(StringSession(session_name), a, b)
-        try:
-            print("Booting Up The Client 10")
-            await edk.start()
-            await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
-            await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
-            botme = await edk.get_me()
-            botid = telethon.utils.get_peer_id(botme)
-            SUDO_USERS.append(botid)
-        except Exception as e:
-            print(e)
-    else:
-        print("Session 10 not Found")
-        session_name = "startup"
-        edk = TelegramClient(session_name, a, b)
-        try:
-            await edk.start()
-        except Exception as e:
-            pass
-
-    if S10:
-        session_name = str(S10)
-        print("String 10 Found")
-        edk = TelegramClient(StringSession(session_name), a, b)
-        try:
-            print("Booting Up The Client 10")
-            await edk.start()
-            await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
-            await edk(functions.channels.JoinChannelRequest(channel="@TBH_N3TWORK"))
-            botme = await edk.get_me()
-            botid = telethon.utils.get_peer_id(botme)
-            SUDO_USERS.append(botid)
-        except Exception as e:
-            print(e)
-    else:
-        print("Session 10 not Found")
-        session_name = "startup"
-        edk = TelegramClient(session_name, a, b)
-        try:
-            await edk.start()
-        except Exception as e:
-            pass
-
-
+    
 loop = asyncio.get_event_loop()
 loop.run_until_complete(start_eagle())
 
